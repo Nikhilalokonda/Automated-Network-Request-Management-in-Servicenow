@@ -199,4 +199,4 @@ A powerful flow was built with the following actions:
 ## 👨‍💻 Author
 **Jahanavi Madugula**  
 *Full Stack Developer | ServiceNow Enthusiast | AI-Driven Solutions Builder*  
-🔗 [LinkedIn](https://www.linkedin.com/in/jahanavi-madugula-75a1252a9/) | 🔗 [GitHub](https://github.com/Jahanavi27/)  
+https://www.linkedin.com/in/lokonda-nikhila-661919291/ | https://github.com/Nikhilalokonda 
