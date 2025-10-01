@@ -197,6 +197,6 @@ A powerful flow was built with the following actions:
 ---
 
 ## 👨‍💻 Author
-**Jahanavi Madugula**  
+**Nikhila Lokonda**  
 *Full Stack Developer | ServiceNow Enthusiast | AI-Driven Solutions Builder*  
 https://www.linkedin.com/in/lokonda-nikhila-661919291/ | https://github.com/Nikhilalokonda 
